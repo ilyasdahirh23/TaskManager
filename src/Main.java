@@ -6,7 +6,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
-            System.out.println("\n1. Ajouter tâche");
+            System.out.println("\n1. Ajouter une tâche");
             System.out.println("2. Lister tâches");
             System.out.println("3. Terminer tâche");
             System.out.println("4. Supprimer tâche");
