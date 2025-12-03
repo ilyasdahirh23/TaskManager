@@ -7,7 +7,7 @@ public class Main {
 
         while (true) {
             System.out.println("\n1. Ajouter tâche");
-            System.out.println("2. Lister tâches");
+            System.out.println("2. Lister les tâches");
             System.out.println("3. Terminer tâche");
             System.out.println("4. Supprimer tâche");
             System.out.println("5. Quitter");
